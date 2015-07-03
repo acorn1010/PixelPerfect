@@ -9,7 +9,7 @@ Example usage:
 <head>
 </head>
 <body>
-    <canvas data-url="http://mysite.com/myimage.png" data-scale="2" />
+    <canvas class="pixelperfect" data-url="http://mysite.com/myimage.png" data-scale="2" />
 
     <script type="text/javascript" language="javascript" src="/js/jquery.js"></script>
     <script type="text/javascript" language="javascript" src="/js/jquery.pixelperfect.js"></script>
